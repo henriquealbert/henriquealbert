@@ -14,14 +14,23 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-333333?style=flat&logo=gatsby)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-39404b?style=flat&logo=styledcomponents) 
+  
+  ![Storybook](https://img.shields.io/badge/-Storybook-39404b?style=flat&logo=storybook)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-39404b?style=flat&logo=testinglibrary)
+  ![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-39404b?style=flat&logo=apollographql)
+  
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-333333?style=flat&logo=gatsby)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
+
+
 
   
 **Utils**
