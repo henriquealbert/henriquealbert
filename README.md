@@ -5,8 +5,8 @@
 
 - 🤔 &nbsp; Always looking for a new opportunity to learn, develop and deliver.
 - 🎓 &nbsp; Studying Italian.
-- 💼 &nbsp; Working as **FullStack Javascript Developer** at Familio/Clientele/Outbound
-- 🌱 &nbsp; Learning more about **Docker & NestJS**.
+- 💼 &nbsp; Working as **FullStack Javascript Developer** at Familio - Copenhagen, Denmark 🇩🇰
+- 🌱 &nbsp; Learning more about **Web scrapping**.
 
 <h3> :rocket: My Skills: </h3>
 
@@ -19,6 +19,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-333333?style=flat&logo=gatsby)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-39404b?style=flat&logo=styledcomponents) 
+  ![ChakraUI](https://img.shields.io/badge/-ChakraUI-39404b?style=flat&logo=chakraui) 
   
   ![Storybook](https://img.shields.io/badge/-Storybook-39404b?style=flat&logo=storybook)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
@@ -27,12 +28,10 @@
   
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
 
-
-
-  
 **Utils**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -44,6 +43,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 **Development tools**
 
