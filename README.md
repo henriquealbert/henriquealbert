@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Always looking for a new opportunity to learn, develop and deliver.
 - 🎓 &nbsp; Studying Italian.
 - 💼 &nbsp; Working as **FullStack Javascript Developer** at Familio - Copenhagen, Denmark 🇩🇰
-- 🌱 &nbsp; Learning more about **Web scrapping**.
+- 🌱 &nbsp; Learning more about **NFT, Ethereum and Smart Contracts**.
 
 <h3> :rocket: My Skills: </h3>
 
