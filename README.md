@@ -4,9 +4,9 @@
 <h3>About me: </h3>
 
 - 🤔 &nbsp; Always looking for a new opportunity to learn, develop and deliver.
-- 🎓 &nbsp; Studying Italian.
+- 🎓 &nbsp; Studying **French 🇫🇷**
 - 💼 &nbsp; Working as **FullStack Javascript Developer** at Familio - Copenhagen, Denmark 🇩🇰
-- 🌱 &nbsp; Learning more about **NFT, Ethereum and Smart Contracts**.
+- 🌱 &nbsp; Learning more about **Tests**.
 
 <h3> :rocket: My Skills: </h3>
 
