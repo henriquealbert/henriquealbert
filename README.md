@@ -1,6 +1,6 @@
 <h1><p>Hi there, I'm Henrique! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-- Working remotely as **Tech lead** at Meteor Software 🇨🇦
+
 - Self-taught FullStack Software Engineer focused on delivering quality products using the best and the latest technologies out there.
 - Experience with React.js, Next.js, Gatsby.js, Strapi, Node.js, NestJS, Prisma, TypeORM, Relay, Apollo,
 ChakraUI, Ant Design, PostgreSQL, GraphQL, WordPress, PHP, Tailwind, TDD, Jest, Blockchain, Filecoin, Lotus nodes, Postgres, Encryption, Internationalization & Fintech, Agile Methodologies
