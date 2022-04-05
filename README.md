@@ -2,12 +2,12 @@
 
 
 - Self-taught FullStack Software Engineer focused on delivering quality products using the best and the latest technologies out there.
-- Experience with React.js, Next.js, Gatsby.js, Strapi, Node.js, NestJS, Prisma, TypeORM, Relay, Apollo,
+- Experience with React.js, Meteor, Next.js, Gatsby.js, Strapi, Node.js, NestJS, Prisma, TypeORM, Relay, Apollo,
 ChakraUI, Ant Design, PostgreSQL, GraphQL, WordPress, PHP, Tailwind, TDD, Jest, Blockchain, Filecoin, Lotus nodes, Postgres, Encryption, Internationalization & Fintech, Agile Methodologies
 - Fast learner and learn on-demand. No problem learning new techs and can adapt to any environment.
 - Background in Marketing, which gives more focus on the product and make it successful.
-- Lead the creation of a shared component library and Loyalty app for restaurants to a company from Denmark.
-- Lead a team on a blockchain project using Filecoin & Lotus.
+- Led the creation of a shared component library and Loyalty app for restaurants to a company from Denmark.
+- Led a team on a blockchain project using Filecoin & Lotus.
 - Digital Nomad since 2019 - Traveled to 13 countries with my wife and, love the experience and learning about other cultures.
 - Born in Brazil in an Italian descendent family, and doing Italian citizenship.
 
