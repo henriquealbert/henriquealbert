@@ -2,11 +2,9 @@
 
 
 Self-taught Senior Software Engineer & Tech Lead at @meteorjs and @meteorcloud. <br />
-Former Marketeer, DJ and Electronic Music Producer.
+Former Digital Nomad, Marketeer, DJ, and Electronic Music Producer.
 
-I love saving people's time thru new products or Open Source contributions.
-
-TypeScript + JavaScript = ❤️
+TypeScript + React + Nodejs = ❤️
 
 <h3> :earth_americas: Get in touch: </h3> 
 
