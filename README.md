@@ -1,10 +1,10 @@
 Hi 👋 My name is Henrique Albert Schmaiske
 =====================================
 
-Tech Lead & Senior Software Engineer
+Engineering, Marketing, and Strategy Manager
 ------------------------------------
 
-Self-taught Senior Software Engineer & Tech Lead at @meteorjs and @meteorcloud. <br/>
+Self-taught Senior Software Engineer & Engineering, Marketing, and Strategy Manager at @meteorjs and @meteorcloud. <br/>
 Former Digital Nomad, Marketeer, DJ, and Electronic Music Producer.
 
 * 🌍  I'm based in Curitiba, Brazil 🇧🇷
