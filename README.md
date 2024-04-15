@@ -4,13 +4,10 @@ Hi 👋 My name is Henrique
 Engineering Manager & Senior Software Engineer
 ----------------------------------------------
 
-Self-taught Engineering Manager & Senior Software Engineer at @meteorjs and @meteorcloud. Former Digital Nomad, Marketeer, DJ, and Electronic Music Producer.
+Engineering Manager & Senior Software Engineer at @meteorjs and @meteorcloud. Former Digital Nomad, Marketeer, DJ, and Electronic Music Producer.
 
-* 🌍  Brazilian-Italian 🇧🇷🇮🇹 currently based in Curitiba, Brazil
-* 🖥️  See my portfolio at [henriquealbert.com](http://henriquealbert.com/)
+* 🌍  Brazilian-Italian-Spanish 🇧🇷🇮🇹🇪🇸 currently based in Curitiba, Brazil
 * ✉️  You can contact me at [ishenriquealbert@gmail.com](mailto:ishenriquealbert@gmail.com)
-* 🚀  I'm currently working on [Planeous](http://planeous.com) and ElCubo.dev
-* 🧠  I'm learning Svelte and SvelteKit.
 
 ### Skills
 
